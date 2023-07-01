@@ -1,0 +1,46 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation-menu li{
+    margin:0px 40px;
+}
+
+.navigation-menu li a{
+    text-decoration: none;
+    color: white;
+}
+
+.navigation-menu li a:hover{
+    transform: translate3d();
+    color: goldenrod;
+}
+
+/* mobile view */
+.mobile-navigation{
+    list-style: none;
+    background-color: grey;
+    color: aqua;
+    /* max-width: 50vh 0; */
+    background-size:full;
+}
+.mobile-navigation li{
+    margin-top: 20px;
+    
+}
+.mobile-navigation li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: black;
+    transform: inherit;
+    font-weight: bold;
+    
+    
+}
+.mobile-navigation li a:hover{
+    transform: translate3d();
+    color: goldenrod;
+}

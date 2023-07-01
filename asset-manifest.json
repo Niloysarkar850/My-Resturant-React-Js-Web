@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/My-Resturant-React-Js-Webnpm%20/static/css/main.a8dc9a79.css",
-    "main.js": "/My-Resturant-React-Js-Webnpm%20/static/js/main.4468d185.js",
-    "static/js/787.719ec76d.chunk.js": "/My-Resturant-React-Js-Webnpm%20/static/js/787.719ec76d.chunk.js",
-    "static/media/image3.jpg": "/My-Resturant-React-Js-Webnpm%20/static/media/image3.9122a4d9624800d1500b.jpg",
-    "static/media/Butter-Chicken.jpg": "/My-Resturant-React-Js-Webnpm%20/static/media/Butter-Chicken.4a270202c2585a5fe117.jpg",
-    "static/media/img2.jpg": "/My-Resturant-React-Js-Webnpm%20/static/media/img2.d58fd25fc8941fe9df6b.jpg",
-    "static/media/chickenchap.png": "/My-Resturant-React-Js-Webnpm%20/static/media/chickenchap.ceca10fb6700b032c2b7.png",
-    "static/media/mutton.jpeg": "/My-Resturant-React-Js-Webnpm%20/static/media/mutton.9ff9c2e43b2252775b14.jpeg",
-    "static/media/Chicken-Tikka-Kebab.jpg": "/My-Resturant-React-Js-Webnpm%20/static/media/Chicken-Tikka-Kebab.b753586cfab1d4cea667.jpg",
-    "static/media/img4.jpg": "/My-Resturant-React-Js-Webnpm%20/static/media/img4.928aa5cba555add2d629.jpg",
-    "index.html": "/My-Resturant-React-Js-Webnpm%20/index.html",
-    "main.a8dc9a79.css.map": "/My-Resturant-React-Js-Webnpm%20/static/css/main.a8dc9a79.css.map",
-    "main.4468d185.js.map": "/My-Resturant-React-Js-Webnpm%20/static/js/main.4468d185.js.map",
-    "787.719ec76d.chunk.js.map": "/My-Resturant-React-Js-Webnpm%20/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/My-Resturant-React-Js-Web/static/css/main.a8dc9a79.css",
+    "main.js": "/My-Resturant-React-Js-Web/static/js/main.6564db89.js",
+    "static/js/787.719ec76d.chunk.js": "/My-Resturant-React-Js-Web/static/js/787.719ec76d.chunk.js",
+    "static/media/image3.jpg": "/My-Resturant-React-Js-Web/static/media/image3.9122a4d9624800d1500b.jpg",
+    "static/media/Butter-Chicken.jpg": "/My-Resturant-React-Js-Web/static/media/Butter-Chicken.4a270202c2585a5fe117.jpg",
+    "static/media/img2.jpg": "/My-Resturant-React-Js-Web/static/media/img2.d58fd25fc8941fe9df6b.jpg",
+    "static/media/chickenchap.png": "/My-Resturant-React-Js-Web/static/media/chickenchap.ceca10fb6700b032c2b7.png",
+    "static/media/mutton.jpeg": "/My-Resturant-React-Js-Web/static/media/mutton.9ff9c2e43b2252775b14.jpeg",
+    "static/media/Chicken-Tikka-Kebab.jpg": "/My-Resturant-React-Js-Web/static/media/Chicken-Tikka-Kebab.b753586cfab1d4cea667.jpg",
+    "static/media/img4.jpg": "/My-Resturant-React-Js-Web/static/media/img4.928aa5cba555add2d629.jpg",
+    "index.html": "/My-Resturant-React-Js-Web/index.html",
+    "main.a8dc9a79.css.map": "/My-Resturant-React-Js-Web/static/css/main.a8dc9a79.css.map",
+    "main.6564db89.js.map": "/My-Resturant-React-Js-Web/static/js/main.6564db89.js.map",
+    "787.719ec76d.chunk.js.map": "/My-Resturant-React-Js-Web/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8dc9a79.css",
-    "static/js/main.4468d185.js"
+    "static/js/main.6564db89.js"
   ]
 }
